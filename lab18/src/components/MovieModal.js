@@ -19,9 +19,7 @@ function MovieModal(props) {
           <Button variant="secondary" onClick={props.handelClose}>
             Close
           </Button>
-          <Button variant="primary" >
-            add to faverate
-          </Button>
+         
         </Modal.Footer>
       </Modal>
     </>
